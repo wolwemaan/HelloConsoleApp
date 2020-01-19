@@ -1,4 +1,5 @@
-﻿using System;
+﻿// A Program by Ettienne Voges to demonstrate git version control
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
